@@ -11,5 +11,6 @@
 		"nome":"Lucas",
 		"email":"email@email.com",
 		"status":"inativo"
-	}
+	},
+	
 }
