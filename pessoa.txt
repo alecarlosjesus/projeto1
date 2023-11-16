@@ -5,4 +5,11 @@
 		"email":"email@email.com",
 		"status":"ativo"
 	}
+	,
+	pessoa2 = {
+		"id" : 2,
+		"nome":"Lucas",
+		"email":"email@email.com",
+		"status":"inativo"
+	}
 }
